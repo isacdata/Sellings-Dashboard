@@ -32,6 +32,7 @@ Avaliar performance de vendas, impacto de descontos, receita x despesa e comport
 ## 🗂️ Estrutura
 
 Sellings-Dashboard/
+
 ├── SQLDesafio_2.sql # Criação de tabelas, views e consultas
 ├── Documentação Desafio 02.pdf # Explicação técnica das medidas e painéis
 ├── README.md
