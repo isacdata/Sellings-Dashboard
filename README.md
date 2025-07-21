@@ -12,7 +12,7 @@ Avaliar performance de vendas, impacto de descontos, receita x despesa e comport
 
 ## 🧪 Métodos
 
-- SQL com `CTEs`, `JOIN`, `views`, criação de `d_Calendario` (2020–2023), e agregações por vendedor, loja e cliente.
+- SQL com `JOIN`, `views`, criação de `d_Calendario` (2020–2023), e agregações por vendedor, loja e cliente.
 - Criação de métricas YoY em Power BI: Faturamento, Frete, Desconto, Receita, Despesa e QTD de Vendas.
 - Segmentação por Status do Cliente, Profissão, Tipo de Renda, Loja, Produto e Canal.
 - 4 dashboards interativos: Vendas, Vendedores, Produto, Financeiro e Nichos.
